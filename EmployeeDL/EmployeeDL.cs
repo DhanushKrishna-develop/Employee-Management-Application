@@ -104,6 +104,7 @@ namespace Employee.DL
         }
         public string valueSelect(string division)
         {
+            try {
             string manager = "";
             SqlConnection con = new SqlConnection(constr);
             con.Open();
@@ -118,10 +119,15 @@ namespace Employee.DL
                 }
             }
             return manager;
+            }
+            catch(Exception e) {
+                return "none";
+            }
         }
         //Deleting the employees contained in the List.
         public string delete(List<string> idlist)
         {
+            try {
             SqlConnection con = new SqlConnection(constr);
             con.Open();
                 foreach (var id in idlist)
@@ -130,6 +136,10 @@ namespace Employee.DL
                     cmd.ExecuteReader();
                 }
                 return "msg";
+            }
+            catch(Exception e) {
+                return "none";
+            }
         }
         /*
         public string update(DTOEmployee emp)
