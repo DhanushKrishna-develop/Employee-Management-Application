@@ -1,0 +1,15 @@
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\Employee.BL.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\Employee.BL.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\EmployeeDL.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\EmployeeDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\EmployeeDL.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\EmployeeDTO.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\obj\Debug\Employee.BL.csprojAssemblyReference.cache
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\obj\Debug\Employee.BL.csproj.CoreCompileInputs.cache
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\obj\Debug\Employee.BL.csproj.CopyComplete
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\obj\Debug\Employee.BL.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\obj\Debug\Employee.BL.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\DivisionDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\ManagerDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\DivisionDTO.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\Employee.BL\bin\Debug\ManagerDTO.pdb

@@ -1,0 +1,11 @@
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\bin\Debug\EmployeeDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\bin\Debug\EmployeeDTO.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\bin\Debug\DivisionDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\bin\Debug\ManagerDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\bin\Debug\DivisionDTO.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\bin\Debug\ManagerDTO.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\obj\Debug\EmployeeDTO.csprojAssemblyReference.cache
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\obj\Debug\EmployeeDTO.csproj.CoreCompileInputs.cache
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\obj\Debug\EmployeeDTO.csproj.CopyComplete
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\obj\Debug\EmployeeDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\EmployeeDTO\obj\Debug\EmployeeDTO.pdb

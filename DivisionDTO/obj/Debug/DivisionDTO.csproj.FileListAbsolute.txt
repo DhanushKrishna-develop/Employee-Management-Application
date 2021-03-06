@@ -1,0 +1,6 @@
+C:\Users\dhanusr1\source\repos\EmployeeApp\DivisionDTO\bin\Debug\DivisionDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\DivisionDTO\bin\Debug\DivisionDTO.pdb
+C:\Users\dhanusr1\source\repos\EmployeeApp\DivisionDTO\obj\Debug\DivisionDTO.csprojAssemblyReference.cache
+C:\Users\dhanusr1\source\repos\EmployeeApp\DivisionDTO\obj\Debug\DivisionDTO.csproj.CoreCompileInputs.cache
+C:\Users\dhanusr1\source\repos\EmployeeApp\DivisionDTO\obj\Debug\DivisionDTO.dll
+C:\Users\dhanusr1\source\repos\EmployeeApp\DivisionDTO\obj\Debug\DivisionDTO.pdb
